@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model identifier="Id-Vv4V5y6GAqBW8gBO" xmlns="http://www.opengroup.org/xsd/archimate/3.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengroup.org/xsd/archimate/3.0/ http://www.opengroup.org/xsd/archimate/3.0/archimate3_Diagram.xsd">
+	<name>Activitydiagram</name>
+	<organizations>
+		<item identifier="Id-hSx15y6GAqBW8gWe">
+			<label>Activity Diagram - Swineline for Order Fulfilment</label>
+			<item>
+				<label>Swimlane3</label>
+			</item>
+			<item>
+				<label>
+				</label>
+			</item>
+			<item>
+				<label>Visitor Login</label>
+			</item>
+			<item>
+				<label>Fill All Registration Details</label>
+			</item>
+			<item>
+				<label>Self take</label>
+			</item>
+			<item>
+				<label>Send message to delivery</label>
+			</item>
+			<item>
+				<label>Delivery Type</label>
+			</item>
+			<item>
+				<label>Payment online or cash</label>
+			</item>
+			<item>
+				<label>Manage Inventory</label>
+			</item>
+			<item>
+				<label>Send message out of stock</label>
+			</item>
+			<item>
+				<label>Contact Wholeseler and send request for new stocks</label>
+			</item>
+			<item>
+				<label>Customer Seach Item</label>
+			</item>
+			<item>
+				<label>Manage Product</label>
+			</item>
+			<item>
+				<label>Purchase Product</label>
+			</item>
+			<item>
+				<label>Logout</label>
+			</item>
+			<item>
+				<label>EMI,Special Discount On cards, Discount by store</label>
+			</item>
+			<item>
+				<label>Billing Managment</label>
+			</item>
+			<item>
+				<label>check stocks</label>
+			</item>
+			<item>
+				<label>Add staff</label>
+			</item>
+			<item>
+				<label>Add wholeseler</label>
+			</item>
+			<item>
+				<label>OWNER LOGOUT </label>
+			</item>
+			<item>
+				<label>Verify store request</label>
+			</item>
+			<item>
+				<label>Staff login</label>
+			</item>
+			<item>
+				<label>Discount Managment</label>
+			</item>
+			<item>
+				<label>LOGIN/Account Page</label>
+			</item>
+			<item>
+				<label>Enter ID , Password</label>
+			</item>
+			<item>
+				<label>Payment staff/wholeseler</label>
+			</item>
+			<item>
+				<label>Valid</label>
+			</item>
+			<item>
+				<label>Valid</label>
+			</item>
+			<item>
+				<label>
+				</label>
+			</item>
+			<item>
+				<label>Bill Reciept</label>
+			</item>
+			<item>
+				<label>Take Product</label>
+			</item>
+			<item>
+				<label>Store site or account page open</label>
+			</item>
+			<item>
+				<label>Address where Deliver</label>
+			</item>
+			<item>
+				<label>Valid</label>
+			</item>
+			<item>
+				<label>Customer Benifits</label>
+			</item>
+			<item>
+				<label>found</label>
+			</item>
+			<item>
+				<label>In stock</label>
+			</item>
+			<item>
+				<label>Delivery by store</label>
+			</item>
+			<item>
+				<label>
+				</label>
+			</item>
+			<item>
+				<label>
+				</label>
+			</item>
+			<item>
+				<label>
+				</label>
+			</item>
+		</item>
+	</organizations>
+</model>
